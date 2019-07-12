@@ -1,0 +1,2 @@
+# FRAUD-DETECTION
+ In this section, we'll look at a credit card fraud detection dataset, and build an unsupervised classification model that can identify transactions as either fraudulent or valid, based on provided, *historical* data. In a [2016 study](https://nilsonreport.com/upload/content_promo/The_Nilson_Report_10-17-2016.pdf), it was estimated that credit card fraud was responsible for over 20 billion dollars in loss, worldwide. Accurately detecting cases of fraud is an ongoing area of research.
